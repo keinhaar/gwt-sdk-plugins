@@ -5,3 +5,5 @@ Alternativly you can simply download the GWT SDK from the GWT projekts website, 
 This is not an official build! 
 We hope to make official builds available in near future over the GWT Eclipse Plugins Marketplace entry.
 
+## build
+To build the SDK Plugins you can simply use ***mvn clean install***. The Update Site will be created in ***repo/target/repository***
