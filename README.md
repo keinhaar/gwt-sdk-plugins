@@ -1,1 +1,7 @@
 # gwt-sdk-plugins
+This Project builds the GWT SDK Plugins for the GWT Plugin. This allows you to install the SDKs by using the Marketplace or an other repository into eclipse.
+Alternativly you can simply download the GWT SDK from the GWT projekts website, and reference it in the eclipse preferences.
+
+This is not an official build! 
+We hope to make official builds available in near future over the GWT Eclipse Plugins Marketplace entry.
+
